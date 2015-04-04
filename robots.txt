@@ -1,2 +1,2 @@
 # Don't index Thinker
-Disallow: /Thinker
+Disallow: /Thinker/
